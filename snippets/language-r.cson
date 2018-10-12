@@ -14,7 +14,7 @@
   'Cummulative max':
     'prefix': 'cumi'
     'body': 'cummax(${1:x})'
-  'Cummulative max':
+  'Cummulative min':
     'prefix': 'cuma'
     'body': 'cummin(${1:x})'
   'Data Frame':
